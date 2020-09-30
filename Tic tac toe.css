@@ -1,0 +1,22 @@
+ td{
+   height: 100px;
+   width: 100px;
+ }
+ .vertical{
+   border-left: 2px solid green;
+   border-right: 2px solid green;
+ }
+ .horizontal{
+   border-top: 2px solid green;
+   border-bottom: 2px solid green;
+ }
+ h1{
+   text-align: center;
+ }
+ table{
+   margin: auto;
+ }
+ td:hover{
+   border : 2px solid green;
+ }
+ 
